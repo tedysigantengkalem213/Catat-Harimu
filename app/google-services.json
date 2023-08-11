@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683710449650",
+    "project_id": "catat-harimu",
+    "storage_bucket": "catat-harimu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683710449650:android:546314e0ad5e5a3ce38d6b",
+        "android_client_info": {
+          "package_name": "com.teddy.catatharimu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683710449650-spbgkh7bg6mvblq31a6isvdqrs7jmsuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPB-3R5MmZadVBcq9jaWYdkRSO6maAozw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683710449650-spbgkh7bg6mvblq31a6isvdqrs7jmsuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

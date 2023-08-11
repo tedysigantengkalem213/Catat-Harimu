@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Catat Harimu</string>
+
+    <string name="screen1">Catatan mimpi</string>
+    <string name="screen2">Kreativitas tanpa batas</string>
+    <string name="screen3">Mimpi</string>
+
+    <string name="screen1desc">Catatlah mimpi mu di dalam catatan ini hingga mimpi itu bisa kamu raih</string>
+    <string name="screen2desc">Tentukan target mu sampai target itu tidak menjadi beban untuk mu</string>
+    <string name="screen3desc">Mimpi bukanlah apa yang Anda lihat dalam tidur Anda. Mimpi adalah hal-hal yang membuat Anda tidak bisa tidur." "Dedikasi, kerja keras sepanjang waktu, dan keyakinan</string>
+</resources>
